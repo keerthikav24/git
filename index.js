@@ -1,6 +1,6 @@
-console.log("this is git learning");
+console.log("this is git playlist");
 
 for(var i=0;i<5;i++)
 {
-    console.log("code")
+    console.log("code io");
 }
